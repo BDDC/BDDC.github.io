@@ -1,3 +1,3 @@
 # BDDC.github.io
 
-Official website of BDDC
+Official website of BDDC.
